@@ -4,6 +4,8 @@ import Description from "@/components/Description";
 import MotionDivWrapper from "@/components/MotionDivWrapper";
 import { getProjects } from "@/lib/project";
 
+export const dynamic = "force-dynamic";
+
 export default async function ProjectPage() {
   const projects = await getProjects();
 
