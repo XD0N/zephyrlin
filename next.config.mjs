@@ -1,13 +1,8 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  images: {
-    remotePatterns: [
-      { hostname: "img.clerk.com" },
-      { hostname: "cdn.sanity.io" },
-      { hostname: "i.scdn.co" },
-    ],
-  },
-  pageExtensions: ["js", "jsx", "mdx"],
-};
+'use client'
 
-export default nextConfig;
+import { NextStudio } from 'next-sanity/studio'
+import config from '../../../sanity/sanity.config.js'
+
+export default function StudioPage() {
+  return <NextStudio config={config} />
+}
