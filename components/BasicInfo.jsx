@@ -6,9 +6,9 @@ export default function BasisInfo() {
       </h2>
       <ul className="flex flex-col gap-5 pl-6 text-sm list-disc ">
         <li>
-          👋 You can call me <span className="font-bold">Zephyr</span>,{" "}
-          <span className="font-bold">Zhihao</span> or{" "}
-          <span className="font-bold">智昊</span>.
+          👋 You can call me <span className="font-bold">Michael</span>,{" "}
+          <span className="font-bold">Xdon</span> or{" "}
+          <span className="font-bold">旭东</span>.
         </li>
 
         <li>

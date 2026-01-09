@@ -11,9 +11,9 @@ import { Toaster } from "sonner";
 const roboto_mono = Roboto_Mono({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Zephyr Lin | Developer",
+  title: "Xdon Yang | Developer",
   description:
-    "Hi, I'm Zephyr Lin, an undergraduate student at University of Minnesota Twin Cities majoring in Computer Science. I am passionate about developing applications that merge aesthetics with purpose.",
+    "Hi, I'm Xdon Yang, a graduate student at Jiangsu University of Technology in Changzhou. I am passionate about developing intelligent solutions for 3D point cloud analysis.",
 };
 
 export default function RootLayout({ children }) {
