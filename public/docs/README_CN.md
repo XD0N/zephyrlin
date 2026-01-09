@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Powered%20by-React-blue"/>
 </p>
 
-![home page picture](../images/home.png)
+![home page picture](../images/xhome.png)
 
 ## 🤩 更新！2.0版本正在开发中
 
