@@ -17,9 +17,8 @@ export default function Hero() {
       </p>
 
       <p className="mb-4 text-sm text-transparent sm:mb-6 sm:text-base bg-gradient-to-b to-muted-foreground from-foreground bg-clip-text">
-        I&apos;m an undergraduate student at University of Minnesota Twin Cities
-        majoring in Computer Science. Passionate about developing applications
-        that merge purpose with aesthetics.
+        I&apos;m Xdon Yang, a graduate student at Jiangsu University of Technology in Changzhou. 
+        I am passionate about developing intelligent solutions for 3D point cloud analysis.
       </p>
 
       <Socials />
