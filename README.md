@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Powered%20by-React-blue"/>
 </p>
 
-![home page picture](./public/images/home.png)
+![home page picture](./public/images/xhome.png)
 
 ## 🤩 Update! Version 2.0 is coming soon...
 
