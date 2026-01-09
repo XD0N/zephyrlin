@@ -4,7 +4,7 @@ import Hero from "@/components/Hero";
 import SkillsBar from "@/components/SkillsBar";
 import RecentUpdate from "@/components/RecentUpdate";
 import BasisInfo from "@/components/BasicInfo";
-import Spotify from "@/components/Spotify";
+//import Spotify from "@/components/Spotify";
 import { Suspense } from "react";
 import { Skeleton } from "@/components/ui/skeleton";
 
@@ -31,7 +31,8 @@ export default async function Page() {
           <BasisInfo />
           <SkillsBar />
           <Suspense fallback={<Skeleton />}>
-            <Spotify />
+            {/* <Spotify /> */}  {/* 👈 加上花括号和注释符号，让它失效 */}
+            <p>正在听的歌：(Spotify 接口维护中...)</p> {/* 👈 可选：写个占位符 */}
           </Suspense>
         </aside>
       </section>
