@@ -15,10 +15,10 @@ export default function BasisInfo() {
           🌎 Current Location:{" "}
           <a
             className="font-bold"
-            href="https://en.wikipedia.org/wiki/Minneapolis"
+            href="https://en.wikipedia.org/wiki/Changzhou"
             target="_blank"
           >
-            Minneapolis, MN, US
+            Changzhou, JiangSu, CN
           </a>
           .
         </li>
@@ -26,33 +26,33 @@ export default function BasisInfo() {
           ✈️ Lived in{" "}
           <a
             className="font-bold"
-            href="https://en.wikipedia.org/wiki/Amherst,_Massachusetts"
+            href="https://en.wikipedia.org/wiki/Yangzhou"
             target="_blank"
           >
-            Amherst
+            Yangzhou
           </a>
           ,{" "}
           <a
             className="font-bold"
-            href="https://en.wikipedia.org/wiki/Shenzhen"
+            href="https://en.wikipedia.org/wiki/Nanjing"
             target="_blank"
           >
-            Shenzhen
+            Nanjing
           </a>
           ,{" "}
           <a
             className="font-bold"
-            href="https://en.wikipedia.org/wiki/Changsha"
+            href="https://en.wikipedia.org/wiki/Xiamen"
             target="_blank"
           >
-            Changsha
+            Xiamen
           </a>{" "}
           <a
             className="font-bold"
-            href="https://en.wikipedia.org/wiki/Wuhan"
+            href="https://en.wikipedia.org/wiki/Shanghai"
             target="_blank"
           >
-            Wuhan
+            Shanghai
           </a>
           , in the past.
         </li>
